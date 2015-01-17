@@ -1,0 +1,28 @@
+{
+  "name": "google-map-basic",
+  "version": "0.0.0",
+  "authors": [
+    "Loring Dodge <loringdodge@gmail.com> Christopher Trevino <christophertrev@gmail.com>"
+  ],
+  "description": "A basic Google Map implementation",
+  "main": "[] directive.js",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "google",
+    "map",
+    "markers"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.0.6"
+  }
+}
